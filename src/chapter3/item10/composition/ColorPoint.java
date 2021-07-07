@@ -1,7 +1,7 @@
-package chapter2.item10.composition;
+package chapter3.item10.composition;
 
-import chapter2.item10.Color;
-import chapter2.item10.Point;
+import chapter3.item10.Color;
+import chapter3.item10.Point;
 
 import java.util.Objects;
 

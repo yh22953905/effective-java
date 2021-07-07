@@ -1,7 +1,7 @@
-package chapter2.item10.inheritance;
+package chapter3.item10.inheritance;
 
-import chapter2.item10.Color;
-import chapter2.item10.Point;
+import chapter3.item10.Color;
+import chapter3.item10.Point;
 
 // Point에 값 컴포넌트(color)를 추가 (56쪽)
 public class ColorPoint extends Point {

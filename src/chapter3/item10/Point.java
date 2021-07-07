@@ -1,4 +1,4 @@
-package chapter2.item10;
+package chapter3.item10;
 
 // 단순한 불변 2차원 정수 점(point) 클래스 (56쪽)
 public class Point {

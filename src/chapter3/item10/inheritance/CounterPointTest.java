@@ -1,6 +1,6 @@
-package chapter2.item10.inheritance;
+package chapter3.item10.inheritance;
 
-import chapter2.item10.Point;
+import chapter3.item10.Point;
 
 import java.util.*;
 
